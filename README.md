@@ -1,23 +1,4 @@
-```python
-# No changes needed to code, just reviewing the files provided earlier.
-with open("detect_pothole.py", "r") as f:
-    content = f.read()
-print(content[:500])
-
-
-```
-
-```text
-Traceback (most recent call last):
-  File "<string>", line 7, in <module>
-AttributeError: module 'posixpath' has no attribute 'size'
-
-
-```
-
-### README.md
-
-# Real-Time Road Anomaly Detection
+Real-Time Road Anomaly Detection
 
 ## Project Overview
 
