@@ -1,0 +1,7 @@
+requirements.txt
+
+1. Plaintext
+2. opencv-python
+3. numpy
+4. onnxruntime
+5. picamera2
